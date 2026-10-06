@@ -1,0 +1,21 @@
+[
+  {
+    "id": "transistor-defect-inspection",
+    "title": "Transistor defect inspection",
+    "description": "Unsupervised defect detection for transistor inspection using PatchCore with a WideResNet50 backbone, with anomaly heatmaps for image-level classification and pixel-level defect localization.",
+    "image": "assets/images/projects/transistor-defect-detection-cover.png",
+    "alt": "Abstract cover illustration for the transistor defect inspection project.",
+    "tags": [
+      "Anomalib / PatchCore",
+      "WideResNet50",
+      "FastAPI",
+      "OpenCV",
+      "Docker"
+    ],
+    "outcome": "Anomaly detection and localization in images ",
+    "url": "https://github.com/Rahul040202/transistor-defect-inspection",
+    "imageFit": "cover",
+    "demo": "assets/images/projects/transistor-defect-detection-demo.gif",
+    "demoAlt": "Animated laptop screen recording showing transistor defect inspection and anomaly localization.",
+    "demoFit": "contain"
+  }]

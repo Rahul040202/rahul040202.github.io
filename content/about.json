@@ -1,0 +1,33 @@
+{
+  "education": [
+    {
+      "institution": "Sri Venkateswara College of Engineering",
+      "degree": "B.Tech in Artificial Intelligence and Data Science",
+      "location": "Chennai, India",
+      "dates": "2020 – 2024"
+    }
+  ],
+  "certifications": [
+    { "name": "Object Detection and Image Segmentation", "issuer": "IIT Madras" },
+    { "name": "Make Your Own DALL-E", "issuer": "IIT Madras" },
+    { "name": "AI Practitioner Learning Plan", "issuer": "AWS" },
+    { "name": "Cloud Practitioner Essentials", "issuer": "AWS" }
+  ],
+  "achievements": [
+    { "title": "Best Sustainable Hack", "event": "NIT Bhopal Version Beta Hackathon" },
+    { "title": "Top Participant", "event": "HackFest by SirionLabs" },
+    { "title": "Semi-finalist", "event": "Smart India Hackathon" }
+  ],
+  "publications": [
+    {
+      "title": "Chronic Obstructive Pulmonary Disease Severity Classification using Lung Sound",
+      "venue": "IEEE ICCSP",
+      "year": "2024"
+    }
+  ],
+  "skills": {
+    "Programming": ["Python", "C/C++", "SQL"],
+    "AI / ML": ["TensorFlow", "PyTorch", "GPT-4", "Prompt engineering", "RAG", "NumPy", "Pandas", "Matplotlib", "OpenCV", "PatchCore anomaly detection", "YOLO object detection and segmentation", "Scikit-learn classification and clustering", "CLIP image-text matching", "Keras-OCR"],
+    "Backend & tools": ["FastAPI", "Docker", "Git", "GitHub Actions CI/CD", "MongoDB", "MySQL", "Qdrant", "Celery", "Redis", "PyTest", "Langfuse"]
+  }
+}

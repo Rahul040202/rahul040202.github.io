@@ -1,0 +1,87 @@
+[
+  {
+    "role": "Software Developer (AI/ML)",
+    "company": "Briskbe Pvt Ltd (Trycom.ai)",
+    "dates": "Jul 2024 – Oct 2025 · Chennai",
+    "highlights": [
+      "Built an agent-based SEO topic clustering and LLM content generation pipeline using LangChain, LangGraph and Qdrant, automating blog creation workflows.",
+      "Developed an async OCR and LLM-based image generation pipeline, reducing content creation time from 20–30 minutes to under 3 minutes.",
+      "Architected Langfuse observability for granular LLM cost tracking across users and third-party APIs.",
+      "Developed and maintained production-grade FastAPI services powering AI automation workflows."
+    ],
+    "skills": [
+      "LangChain",
+      "LangGraph",
+      "Qdrant",
+      "OCR",
+      "LLM image generation",
+      "Langfuse",
+      "FastAPI"
+    ],
+    "highlightKeywords": [
+      "SEO topic clustering",
+      "LLM content generation",
+      "LangChain",
+      "LangGraph",
+      "Qdrant",
+      "async OCR",
+      "image generation",
+      "under 3 minutes",
+      "Langfuse",
+      "LLM cost tracking",
+      "FastAPI"
+    ]
+  },
+  {
+    "role": "Machine Learning Intern",
+    "company": "Mocero Health Solutions",
+    "dates": "Jan 2024 – Jul 2024 · Chennai",
+    "highlights": [
+      "Built a multilingual image localization pipeline enabling generative AI images with native Tamil text using PaddleOCR, IndicTrans2, LaMa and OpenCV.",
+      "Developed an image scraping and CLIP-based ranking system for large-scale visual dataset curation.",
+      "Automated infographic generation using template rendering and LLM-generated content."
+    ],
+    "skills": [
+      "PaddleOCR",
+      "IndicTrans2",
+      "LaMa",
+      "OpenCV",
+      "CLIP",
+      "Generative AI"
+    ],
+    "highlightKeywords": [
+      "multilingual image localization",
+      "Tamil text",
+      "PaddleOCR",
+      "IndicTrans2",
+      "LaMa",
+      "OpenCV",
+      "CLIP",
+      "infographic generation"
+    ]
+  },
+  {
+    "role": "Machine Learning Intern",
+    "company": "Cameo Corporate Services",
+    "dates": "Sep 2021 – Dec 2021 · Chennai",
+    "highlights": [
+      "Developed a TensorFlow KYC document classifier covering 20 document types with 83% accuracy.",
+      "Reduced manual tagging effort by 50% through automated inference pipelines.",
+      "Integrated prediction outputs with Oracle Database to streamline downstream processing."
+    ],
+    "skills": [
+      "TensorFlow",
+      "KYC classification",
+      "Oracle Database",
+      "Inference automation"
+    ],
+    "highlightKeywords": [
+      "TensorFlow",
+      "20 document types",
+      "83% accuracy",
+      "50%",
+      "automated inference",
+      "Oracle Database"
+    ]
+  }
+]

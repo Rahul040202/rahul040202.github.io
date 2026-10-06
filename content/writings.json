@@ -1,0 +1,35 @@
+[
+  {
+    "id": "what-is-not-machine-learning",
+    "title": "What Is Not Machine Learning?",
+    "summary": "An exploration of the boundaries of machine learning and what should not be classified as machine learning.",
+    "image": "assets/images/writings/what-is-not-ml.webp",
+    "alt": "Illustrated research notes about machine learning",
+    "url": "https://medium.com/@gilakarahul/what-is-not-machine-learning-225aee767b06",
+    "imageFit": "contain",
+    "platform": "Medium",
+    "format": "Article"
+  },
+  {
+    "id": "regression-model-classifies",
+    "title": "The Only Regression Model That Actually Classifies",
+    "summary": "A look at logistic regression, a model with regression in its name that is used for classification.",
+    "image": "assets/images/writings/logistic-regression.webp",
+    "alt": "Illustrated classification workflow",
+    "url": "https://medium.com/@gilakarahul/the-only-regression-model-that-actually-classifies-62d7248a5dab",
+    "imageFit": "contain",
+    "platform": "Medium",
+    "format": "Article"
+  },
+  {
+    "id": "COPD severity classification",
+    "title": "Chronic Obstructive Pulmonary Disease Severity Classification using lung sound",
+    "summary": "AI-powered lung sound analysis using ResNet50 enables accurate multi-class COPD severity detection for early diagnosis.",
+    "image": "assets/images/writings/COPD.png",
+    "alt": "Illustrated COPD severity classification workflow",
+    "url": "https://ieeexplore.ieee.org/document/10543344",
+    "imageFit": "contain",
+    "platform": "IEEE",
+    "format": "Conference Paper"
+  }
+]
