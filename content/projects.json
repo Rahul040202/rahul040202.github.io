@@ -18,4 +18,26 @@
     "demo": "assets/images/projects/transistor-defect-detection-demo.gif",
     "demoAlt": "Animated laptop screen recording showing transistor defect inspection and anomaly localization.",
     "demoFit": "contain"
-  }]
+  },
+   {
+    "id": "COPD severity assessment",
+    "title": "COPD severity assessment",
+    "description": "Developed a ResNet-50 model to classify COPD severity into five categories (COPD0–COPD4) using lung sound spectrograms, aiming for faster assessment than conventional spirometry.",
+    "image": "assets/images/projects/copd-severity-assessment-cover.png",
+    "alt": "Abstract cover illustration for the COPD severity assessment project.",
+    "tags": [
+      "tensorflow",
+      "librosa",
+      "pydub",
+      "scikit-learn",
+      "matplotlib",
+      "numpy"
+    ],
+    "outcome": "Achieved 94.57% accuracy in COPD severity classification",
+    "url": "https://github.com/Rahul040202/COPD-Severity-Assessment",
+    "imageFit": "cover",
+    "demo": "assets/images/projects/copd-severity-assessment-demo.gif",
+    "demoAlt": "laptop screen recording showing COPD severity assessment",
+    "demoFit": "contain"
+  }
+]
