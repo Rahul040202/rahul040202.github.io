@@ -1,22 +1,33 @@
 [
   {
-    "id": "what-is-not-machine-learning",
-    "title": "What Is Not Machine Learning?",
-    "summary": "An exploration of the boundaries of machine learning and what should not be classified as machine learning.",
-    "image": "assets/images/writings/what-is-not-ml.webp",
+    "id": "evaluating-embedding-models-for-RAG",
+    "title": "Beyond the Leaderboard: Evaluating Embedding Models for RAG",
+    "summary": "An experiment-driven evaluation of retrieval quality, latency, and throughput across embedding models in a Retrieval-Augmented Generation (RAG) system.",
+    "image": "assets/images/writings/evaluate-embedding-models.png",
     "alt": "Illustrated research notes about machine learning",
-    "url": "https://medium.com/@gilakarahul/what-is-not-machine-learning-225aee767b06",
+    "url": "https://medium.com/@gilakarahul/beyond-the-leaderboard-evaluating-embedding-models-for-rag-04b0f4d6f944",
     "imageFit": "contain",
     "platform": "Medium",
     "format": "Article"
   },
-  {
+    {
     "id": "regression-model-classifies",
     "title": "The Only Regression Model That Actually Classifies",
     "summary": "A look at logistic regression, a model with regression in its name that is used for classification.",
     "image": "assets/images/writings/logistic-regression.webp",
     "alt": "Illustrated classification workflow",
     "url": "https://medium.com/@gilakarahul/the-only-regression-model-that-actually-classifies-62d7248a5dab",
+    "imageFit": "contain",
+    "platform": "Medium",
+    "format": "Article"
+  },
+  {
+    "id": "what-is-not-machine-learning",
+    "title": "What Is Not Machine Learning?",
+    "summary": "An exploration of the boundaries of machine learning and what should not be classified as machine learning.",
+    "image": "assets/images/writings/what-is-not-ml.webp",
+    "alt": "Illustrated research notes about machine learning",
+    "url": "https://medium.com/@gilakarahul/what-is-not-machine-learning-225aee767b06",
     "imageFit": "contain",
     "platform": "Medium",
     "format": "Article"
